@@ -1,10 +1,10 @@
 {
   "message": "",
   "update": {
-    "versionCode": 3,
-    "version": "1.0.2",
-    "url": "https://github.com/alidiab2/free-iptv-config/releases/download/v1.0.2/FreeIPTV-1.0.2.apk",
-    "notes": "إصلاح تنقل الريموت بين الأصناف، تسريع فتح التطبيق والتنقل"
+    "versionCode": 4,
+    "version": "1.0.3",
+    "url": "https://github.com/alidiab2/free-iptv-config/releases/download/v1.0.3/FreeIPTV-1.0.3.apk",
+    "notes": "إصلاح أزرار الريموت أثناء المشاهدة على التلفاز"
   },
-  "secret": "v1.159fab956c24951447b603be.856b5219b9b8d38fd41266c871f8665d33e5e7bee82253e83e6c126a48ce6dfc03c5b5b6169b7ea287bd20f951b23cac19e29cca206630bb90457cbed8b3a017008c42fb1add320ff594420b101a96671440a22efb3269af8b863b660aa51fde92f6f468948f550fa00b7abe24dd9f91f70fea5622eb280839783c8c45f54873f9b22ef236556ed696739f37733b919ea972ca6c26fdd5a4cf269f3e3824411bda2bcad195a39d64be2cb93776ef8b14fe5cdf029d3cc46a6adddd5e92783cbb928c47cf4cecfe2bc37d1418903108050b65a0effaf63f1b139abf4687268ffa3e1c3c"
+  "secret": "v1.9f4acff8b5d70cf530a412c6.a2fdefd1770753b0fb0c4a10f7dabe4f6624e90abc2462418d734a2dc649adc64017c94eee780493ae691e925b6823d05ee41dad3ecefae01ab667889167daa58a9b689f1ddc56374b21f6e28875057b5fa3baaa7d4aff11bde92e347016572b47ca1b7594879a983da5963fa6a934c5e1deb0e2fe731d43dda86b4a790179bae544b7ea60d8ca78b2be253456fd34e9406150bf8939cab1474eb41abb279aec73474d6ce615b275d68e0188cc071e177da45142127c98cd428b0200ced8dd8834a5bfe47a27ca73236bc7ecc71bbacbf7423ee71d7182bc57ce690c346a1f492efb23"
 }
