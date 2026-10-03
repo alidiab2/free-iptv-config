@@ -1,10 +1,10 @@
 {
   "message": "",
   "update": {
-    "versionCode": 5,
-    "version": "1.0.4",
-    "url": "https://github.com/alidiab2/free-iptv-config/releases/download/v1.0.4/FreeIPTV-1.0.4.apk",
-    "notes": "تنقل أسرع وأسهل بين الفئات بالريموت، إضافة للمفضلة بالأزرار الملونة"
+    "versionCode": 6,
+    "version": "1.0.5",
+    "url": "https://github.com/alidiab2/free-iptv-config/releases/download/v1.0.5/FreeIPTV-1.0.5.apk",
+    "notes": "تغيير الفئة من قائمة القنوات أثناء المشاهدة، والفئات تفتح بـ OK أو ▶ فقط لتنقل أسرع"
   },
-  "secret": "v1.d534765c4b2bb20ccc9d77c8.b9252df7334f993d2d3624a0671ebb582e904f7eb2b8d9542133e47dd3a0e7987e321f555068f69e97aa52c9cde4821b08c157c21a9fd7734d8b757d70d9d57a1b34764a323437dd27fb2efc01742beac3092fe7733ede32800a828cebb422039e6791f76bc18074665413fd1d1de0b3aa34f790363819f8513af3462e1f34c0d360acfa7a3de3db8adc262c814bdc1a71f55b2a526f473f21e583b0898671a10d9d5da8388343c608081f5a0d7cf2e4c6765d4005722c6f0cad6376f8082bfa32894921ec470e5dd09562db9546573f17bad603d8a632d507867c4875ad49651fde44"
+  "secret": "v1.83de383d5319634230ec0ec3.22abed3ce717932bebbbddcf421fb928af3a94dc5b8cf8890e70c8d660a424001089d57079e219fcc67c0cf58554c45d2f69b51e34a7e0cb7a6b73693bb3063a2c5fefad4f39657c522313932bc6eba9c92c902c3521aa827b3b7bfe33d29b37e08a39a16d287a93e3c529b2a2ed8186bfcbdc376333fba1b98da9280cfe754eaf699d78fa07efb8a377ede34f42106a7f72310ed03163dd8f89ae27d61e73082dad352813e21bc81e86b00aedc840a572da5ed523e21220c171deb64ae9bde313668ff4c76c8dc2e5d54450ffe0a44eb1d2ea0f9ad6d9c585d538586d0774f3f846a1"
 }
