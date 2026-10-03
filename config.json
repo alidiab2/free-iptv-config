@@ -1,10 +1,10 @@
 {
   "message": "",
   "update": {
-    "versionCode": 7,
-    "version": "1.0.6",
-    "url": "https://github.com/alidiab2/free-iptv-config/releases/download/v1.0.6/FreeIPTV-1.0.6.apk",
-    "notes": "التطبيق أخف: الحجم نزل من 45 إلى 23 ميغا، وإصلاح أول ضغطة على الريموت أثناء المشاهدة"
+    "versionCode": 8,
+    "version": "1.0.7",
+    "url": "https://github.com/alidiab2/free-iptv-config/releases/download/v1.0.7/FreeIPTV-1.0.7.apk",
+    "notes": "تبديل تلقائي بين الحسابات عند وجود مشكلة"
   },
-  "secret": "v1.493c460fd59a8ffbbaddc01f.331dd55768c536e3ad23dfb407dadfd0493af948cba445538b85bf64647d2d5a7364e97df6615e8f165fa1c272dc2714c95dc2cbeaa8836de555b7ab03c44457dfee939ef289387ed8078639a5bfc2dc07aa679c6df8f7706128ff092b60a9149b54f8fdb968a38eecd42e818bbf282895edaef87e5f165eb7a44087db8e94f9142f032a94c93401ff5a977ffb0f12cb6f7c086b39ebe8bd498e06cfd21ab60096a4e10c715b4f57faf4e757ca677c7b5ab8835814be0e7d43ed9b412e9fb7a1c3eec483a834eec2aff42b9dd590a4f130ed04a876ae7f34bb843c7aeec9a50fc5b653"
+  "secret": "v1.02f7ea07f1bf8d4fb3825205.dd3ab0e1c5c95a3d4f9f4d24be1db9c2658306f5c56983cd46b7bab2221dbd6ca7726bfb6600f3dfe02f7eb1d14dda754916bb649de93176f2d3e3ce6742acb03046b089e8c5d2c6439146fc99e87da4405a68abfc0196c64878d2ad7feca7e81fbda803f2d195449d80c20f580f4b8913b5a20074dd1abdff0cceb85459275248cba1593418c5ce0f4182a54cd73c57041ff6a779a0424ff73f651be7f2947291ec40fb404c8de74df69c2803c40a33d9f2ce98ed1c7e22eabe3cd83299c5e677267f28ed331edf064110d9e6171bde65b5cff4e30bc77811fd3a6fc479a4bcca1d85"
 }
